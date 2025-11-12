@@ -132,3 +132,68 @@ footer{
   right: 15%;
 }
 
+.carol{
+  display:flex;
+  position: absolute;
+  left: 10%;
+  top:16%;
+}
+.caroltexto{
+  margin-left: 150px;
+  font-size: 18px;
+  max-width: 200px;
+}
+
+.Atanazio{
+  display:flex;
+  position: absolute;
+  left: 30%;
+  top:16%;
+}
+
+.atanaziotexto{
+  margin-top: -20px;
+  margin-left: 470px;
+  font-size: 18px;
+  max-width: 200px;
+}
+
+.Camilly{
+  display:flex;
+  position: absolute;
+  left: 55%;
+  top:16%;
+}
+
+.camillytexto{
+  margin-top: -40px;
+  margin-left: 830px;
+  font-size: 18px;
+  max-width: 300px;
+}
+
+.Mateus{
+  display:flex;
+  position: absolute;
+  left: 80%;
+  top:16%;
+}
+
+.mateustexto{
+  margin-top: -40px;
+  margin-left: 1280px;
+  font-size: 18px;
+  max-width: 200px;
+}
+
+.botaocreditos{
+  background-color: #c47b3c; /* Green */
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transform: translate(-350px);
+}
